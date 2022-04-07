@@ -1,6 +1,6 @@
 # Quiz
 
-Gra Quiz będąca Quizzem.
+Gra Quiz.
 Wykorzystuje się w niej Raspberry Pi i kontroler BuzzFeed.
 
 Autor:
