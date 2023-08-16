@@ -1,7 +1,7 @@
 # Quiz
 
 Opis projektu:
-Program był przygotowany na potrzeby systemów wbudowanych.
+Program był przygotowany w ramach przedmiotu systemy wbudowane.
 Gra polega na udzieleniu poprawnych odpowiedzi na pytania.
 Wygrywa ten, kto otrzymał najwięcej punktów.
 
