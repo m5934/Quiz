@@ -21,7 +21,18 @@ function connection() {
 ******************************************************/
 
 function connection() {
-    
+
+$dbconn = pg_connect("host=sheep port=5432 dbname=mary user=postgres password=")
+or die('Brak połączenia z bazą danych: ' . pg_last_error());
+$nr_p = 'SELECT nr_pytania  FROM pytania'
+$r = 'SELECT pytanie FROM pytania'
+$o1 = 'SELECT odp1 from pytania'
+$o2 = 'SELECT odp2 from pytania'
+$o3 = 'SELECT odp3 from pytania'
+$o4 = 'SELECT odp4 from pytania'
+
+// Closing connection
+pg_close($dbconn);
 }
 
 ?>
