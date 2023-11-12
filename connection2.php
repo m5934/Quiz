@@ -30,6 +30,7 @@ $o1 = 'SELECT odp1 from pytania'
 $o2 = 'SELECT odp2 from pytania'
 $o3 = 'SELECT odp3 from pytania'
 $o4 = 'SELECT odp4 from pytania'
+$qg = 'SELECT * from gracze'
 
 // Closing connection
 pg_close($dbconn);
