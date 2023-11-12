@@ -1,0 +1,129 @@
+body {
+ font-family: Verdana;
+ font-size: 15px;
+ background-color: white;
+ color: black;
+ margin: 0 !important;
+}
+
+#container {
+ width: 1000px;
+ margin-left: auto;
+ margin-right: auto;
+ background-color: white;
+}
+
+.tytuł {
+ padding: 40px;
+ margin-left: 0px;
+ margin-right: 0px;
+ background-color: lightblue;
+}
+
+h1 {
+ text-align: center;
+ letter-spacing: 3px;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+	display: block;
+}
+
+ol a
+{
+	color: black;
+	text-decoration: none;
+	display: block;
+}
+
+ol > li:first-child
+{
+	border-left: 1px dashed #751b1b;
+}
+
+ol > li
+{
+	float: left;
+	width: 300px;
+	height: 40px;
+	border-right: 1px dashed #751b1b;
+	display: block;
+	text-align: center;
+	display: inline-block;
+}
+
+ol > li:hover
+{
+	background-color: blue;
+	color: lightblue;
+}
+
+ol > li:hover > a
+{
+	background-color: blue;
+	color: lightblue;
+}
+
+ol > li > ul
+{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	height: 40px;
+	display: none;
+}
+
+ol > li:hover > ul
+{
+	display: block;
+}
+
+ol > li > ul > li
+{
+	background-color:#cf6969;
+	position: relative;
+	z-index: 100;
+	border-top: 1px dashed #751b1b;
+	clear: boath;
+}
+
+ol > li > ul > li:hover
+{
+	background-color: blue;
+}
+
+ol > li > ul > li:hover > a
+{
+	color: darkblue;
+}
+
+
+
+}
+
+button {
+	padding: 6px;
+}
+
+button:hover {
+	padding: 6px;
+	cursor:pointer;
+}
+
+.
+.akapit {
+	text-align: left;
+	color: black;
+	margin-top: 40px;
+}
+
+footer {
+	background-color: lightblue;
+	text-align: center;
+	font-family: Verdana;
+	font-size: 20px;
+	padding: 20px;
+	margin: 0px;
+}
