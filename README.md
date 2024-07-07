@@ -20,3 +20,9 @@ i podłączyć kontrolery BuzzFeed do Raspberry Pi 3.
 Grę można uruchomić przez użycie polecenia:
 
 ```python3 quiz_game_py```
+
+## Architektura systemu wbudowanego
+
+Gra jest zaintalowana na Raspberri Pi.
+Kontrolery BuzzFeed są podłączone do urządzenia.
+
