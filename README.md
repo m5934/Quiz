@@ -26,3 +26,14 @@ Grę można uruchomić przez użycie polecenia:
 Gra jest zaintalowana na Raspberri Pi.
 Kontrolery BuzzFeed są podłączone do urządzenia.
 
+## Planowane funkcje
+
+W przyszłości planuje się:
+
+- zaimplementować interfejs graficzny ( prawdopodobnie będzie to aplikacja internetowa );
+- utworzyć bazę danych do gry;
+- uniezaleźnić grę od Raspberry Pi.
+
+
+Autor:
+Michał Wojciechowski
