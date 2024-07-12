@@ -21,6 +21,17 @@ Grę można uruchomić przez użycie polecenia:
 
 ```python3 quiz_game_py```
 
+## Wymagania funkcjonalne
+
+1. Obsługa kontrolerów BuzzFedd.
+2. Czytelny interfejs.
+
+## Wymagania niefunkcjonalne
+
+1. Płynność gry.
+2. Czytelny interfejs.
+
+   
 ## Architektura systemu wbudowanego
 
 Gra jest zaintalowana na Raspberri Pi.
