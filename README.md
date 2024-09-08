@@ -1,12 +1,13 @@
 # Quiz
 
 Opis projektu:
-Program był wykonany w ramach przedmiotu systemy wbudowane.
+
+Projekt implementacji gry typu quiz.
+
 Gra polega na udzieleniu poprawnych odpowiedzi na pytania
 przez wybór odpowiedniego przycisku na kontrolerze BuzzFeed.
-
-Za każdą poprawną odpowiedź zdobywa się punkt.
-Wygrywa ten, kto otrzymał najwięcej punktów.
+Wygrywa ten, kto otrzyma najwięcej punktów.
+Za każdą poprawną odpowiedź zdobywa się jeden punkt.
 
 "Quizz" i interfejs do obsługi kontrolerów został zaimplementowany w języku Python.
 
