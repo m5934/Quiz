@@ -2,16 +2,15 @@
 
 Opis projektu:
 
-Projekt implementacji gry typu quiz.
+Gra typu Quizz.
 
-Gra polega na udzieleniu poprawnych odpowiedzi na pytania
+Quiz polega na udzieleniu poprawnych odpowiedzi na pytania
 przez wybór odpowiedniego przycisku na kontrolerze BuzzFeed.
 Wygrywa ten, kto otrzyma najwięcej punktów.
 Za każdą poprawną odpowiedź zdobywa się jeden punkt.
 
-"Quizz" i interfejs do obsługi kontrolerów został zaimplementowany w języku Python.
-
-Grę wdrożono na komputerze Raspberri Pi.
+Projekt zaimplementowano w języku Python
+i uruchomiona na **Respberry Pi 3**.
 
 ## Uruchomienie gry
 
