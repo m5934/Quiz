@@ -36,6 +36,11 @@ Kontrolery BuzzFeed są podłączone do urządzenia.
 2. Należy mieć podłączyny kontroler BuzzFeed do komputera.
 
 ## Instalacja gry
+1. Sklonuj grę na swój komputer poniższymi poleceniami w interfejsie tekstowym:
+```
+git clone https://github.com/m5934/quiz-game
+cd quiz-game
+```
 
 ## Uruchomienie gry
 
