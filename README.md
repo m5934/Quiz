@@ -12,6 +12,29 @@ Za każdą poprawną odpowiedź zdobywa się jeden punkt.
 Projekt zaimplementowano w języku Python
 i uruchomiona na **Respberry Pi 3**.
 
+## Funkcje
+
+Gra oferuje sprawiedliwą i zrową rywalizację między graczami.
+
+## Wymaganie funkconalne
+
+Możliwość uruhomienia gry na Raspberry Pi 3.
+
+## Wymagania niefunkcjonalne
+
+1. Płynność gry.
+2. Czytelny interfejs.
+
+## Architektura systemu wbudowanego
+
+Gra jest zaintalowana na Raspberri Pi.
+Kontrolery BuzzFeed są podłączone do urządzenia.
+
+
+## Przed instalacją gry
+
+## Instalacja gry
+
 ## Uruchomienie gry
 
 Przed uruchomieniem gry należy zaintalować oprogramowanie obsługujące język Python
@@ -21,22 +44,7 @@ Grę można uruchomić przez użycie polecenia:
 
 ```python3 quiz_game_py```
 
-## Wymagania funkcjonalne
-
-1. Obsługa kontrolerów BuzzFedd.
-2. Czytelny interfejs.
-
-## Wymagania niefunkcjonalne
-
-1. Płynność gry.
-2. Czytelny interfejs.
-
    
-## Architektura systemu wbudowanego
-
-Gra jest zaintalowana na Raspberri Pi.
-Kontrolery BuzzFeed są podłączone do urządzenia.
-
 ## Planowane funkcje
 
 W przyszłości planuje się:
