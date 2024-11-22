@@ -14,7 +14,7 @@ i uruchomiona na **Respberry Pi 3**.
 
 ## Funkcje
 
-Gra oferuje sprawiedliwą i zrową rywalizację między graczami.
+Gra oferuje sprawiedliwą rywalizację między graczami.
 
 ## Wymaganie funkconalne
 
