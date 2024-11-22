@@ -31,7 +31,9 @@ Gra jest zaintalowana na Raspberri Pi.
 Kontrolery BuzzFeed są podłączone do urządzenia.
 
 
-## Przed instalacją gry
+## Wymagania wstępne
+1. Należy mieć zaintalowany Python 3.
+2. Należy mieć podłączyny kontroler BuzzFeed do komputera.
 
 ## Instalacja gry
 
