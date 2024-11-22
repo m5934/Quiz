@@ -2,16 +2,45 @@
 
 Opis projektu:
 
-Projekt implementacji gry typu quiz.
+Gra typu Quizz.
 
-Gra polega na udzieleniu poprawnych odpowiedzi na pytania
+Quiz polega na udzieleniu poprawnych odpowiedzi na pytania
 przez wybór odpowiedniego przycisku na kontrolerze BuzzFeed.
 Wygrywa ten, kto otrzyma najwięcej punktów.
 Za każdą poprawną odpowiedź zdobywa się jeden punkt.
 
-"Quizz" i interfejs do obsługi kontrolerów został zaimplementowany w języku Python.
+Projekt zaimplementowano w języku Python
+i uruchomiona na **Respberry Pi 3**.
 
-Grę wdrożono na komputerze Raspberri Pi.
+## Funkcje
+
+Gra oferuje sprawiedliwą i zrową rywalizację między graczami.
+
+## Wymaganie funkconalne
+
+Możliwość uruhomienia gry na Raspberry Pi 3.
+
+## Wymagania niefunkcjonalne
+
+1. Płynność gry.
+2. Czytelny interfejs.
+
+## Architektura systemu wbudowanego
+
+Gra jest zaintalowana na Raspberri Pi.
+Kontrolery BuzzFeed są podłączone do urządzenia.
+
+
+## Wymagania wstępne
+1. Należy mieć zaintalowany Python 3.
+2. Należy mieć podłączyny kontroler BuzzFeed do komputera.
+
+## Instalacja gry
+1. Sklonuj grę na swój komputer poniższymi poleceniami w interfejsie tekstowym:
+```
+git clone https://github.com/m5934/quiz-game
+cd quiz-game
+```
 
 ## Uruchomienie gry
 
@@ -22,22 +51,7 @@ Grę można uruchomić przez użycie polecenia:
 
 ```python3 quiz_game_py```
 
-## Wymagania funkcjonalne
-
-1. Obsługa kontrolerów BuzzFedd.
-2. Czytelny interfejs.
-
-## Wymagania niefunkcjonalne
-
-1. Płynność gry.
-2. Czytelny interfejs.
-
    
-## Architektura systemu wbudowanego
-
-Gra jest zaintalowana na Raspberri Pi.
-Kontrolery BuzzFeed są podłączone do urządzenia.
-
 ## Planowane funkcje
 
 W przyszłości planuje się:
