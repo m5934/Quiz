@@ -2,10 +2,8 @@
 
 Opis projektu:
 
-Gra typu Quizz.
-
-Quiz polega na udzieleniu poprawnych odpowiedzi na pytania
-przez wybór odpowiedniego przycisku na kontrolerze BuzzFeed.
+Quiz polega na udzieleniu poprawnych odpowiedzi na pytania.
+Wybór odpowiedzi następuje przez naciśnięcie odpowiedniego przycisku na kontrolerze BuzzFeed.
 Wygrywa ten, kto otrzyma najwięcej punktów.
 Za każdą poprawną odpowiedź zdobywa się jeden punkt.
 
